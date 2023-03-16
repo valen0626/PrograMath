@@ -1,0 +1,14 @@
+div.cabecera {
+    width: 95%;
+    margin: 30px auto;
+    padding: 10px;
+}
+
+div.cabecera img {
+    float: left;
+    margin-right: 15px;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
